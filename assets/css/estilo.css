@@ -1,0 +1,66 @@
+img#logo {
+  max-height:29px;
+  padding-right:10px;
+  display:inline-block;
+}
+
+a.navbar-brand.navbar-link {
+  color:rgb(25,25,25);
+}
+
+nav.navbar.navbar-default.barra {
+  margin:auto;
+}
+
+div#jumbo.jumbotron {
+  max-width:900px;
+  margin:auto;
+  text-align:left;
+}
+
+h1 {
+  color:black;
+}
+
+div#jumbo.jumbotron {
+  border-radius:10px;
+  padding:95px 20px;
+  margin:35px 0;
+  margin:auto;
+}
+
+#back {
+  text-align:center;
+  padding:40px;
+  background:url("../../assets/img/slide3.jpg");
+  background-size:cover;
+  margin:55px 0;
+  background-attachment:fixed;
+}
+
+p.intro {
+  color:rgb(4,4,4);
+}
+
+#back .jumbotron {
+  /*background:red;*/
+  border-radius:20px;
+  padding:40px;
+  background:rgba(255,255,255,0);
+  max-width:800px;
+  margin:auto;
+  border-color:rgba(60,251,216,0);
+}
+
+.row {
+  max-width:900px;
+  margin:auto;
+  padding:40px;
+}
+
+.back {
+  background:url("../../assets/img/play.jpg");
+  background-size:cover;
+  background-attachment:fixed;
+}
+
